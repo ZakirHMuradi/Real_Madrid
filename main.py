@@ -34,6 +34,9 @@ print("your name is ", age)
 surname = input("Enter your name: ")
 print("your name is ", surname)
 
+email = input("Enter your name: ")
+print("your name is ", email)
+
 country = input("Enter your name: ")
 print("your name is ", country)
 
