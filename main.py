@@ -23,7 +23,7 @@ birthday = input("Enter your name: ")
 print("your name is ",27/07/2003)
 
 cohort = input("Enter your name: ")
-print("your name is ", cohort)
+print("your name is ", cohort1 - Science cohort)
 
 name = input("Enter your name: ")
 print("your name is ", Aizada)
