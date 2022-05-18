@@ -26,7 +26,7 @@ cohort = input("Enter your name: ")
 print("your name is ", cohort)
 
 name = input("Enter your name: ")
-print("your name is ", AIzada)
+print("your name is ", Aizada)
 
 age = input("Enter your name: ")
 print("your name is ", 18)
