@@ -2,7 +2,7 @@ name = input("Enter your name: ")
 print("your name is ", Aizada)
 
 age = input("Enter your name: ")
-print("your name is ", 18)
+print("your name is ", 18-19)
 
 surname = input("Enter your name: ")
 print("your name is ", Berdibekova)
