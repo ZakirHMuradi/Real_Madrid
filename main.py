@@ -14,7 +14,7 @@ country = input("Enter your name: ")
 print("your name is ", Kyrgyz Republic)
 
 email = input("Enter your name: ")
-print("your name is ", aizada.berdibecova@gmail.come)
+print("your name is ", aizada.berdibecova@gmail.com)
 
 gender= input("Enter your name: ")
 print("your name is ", female)
