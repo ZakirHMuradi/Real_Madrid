@@ -2,13 +2,13 @@ name = input("Enter your name: ")
 print("your name is ", Aizada)
 
 age = input("Enter your name: ")
-print("your name is ", 18-19)
+print("your name is ", 18)
 
 surname = input("Enter your name: ")
-print("your name is ", berdibekova)
+print("your name is ", Berdibekova)
 
 speciality = input("Enter your name: ")
-print("your name is ", Computer Science)
+print("your name is ", CS- It)
 
 country = input("Enter your name: ")
 print("your name is ", Kyrgyzstan)
@@ -35,19 +35,19 @@ surname = input("Enter your name: ")
 print("your name is ", Berdibekova)
 
 cohort = input("Enter your name: ")
-print("your name is ", cohort)
+print("your name is ", cohort- Science)
 
 birthday = input("Enter your name: ")
 print("your name is ",18)
 
 gender= input("Enter your name: ")
-print("your name is ", feamle)
+print("your name is ", female- female )
 
 email = input("Enter your name: ")
 print("your name is ", aizada.berdiebcova@gmail.com)
 
 country = input("Enter your name: ")
-print("your name is ", Kyrgyzsatn)
+print("your name is ", Kyrgyzstan)
 
 speciality = input("Enter your name: ")
-print("your name is ", IT, CS)
+print("your name is ", IT)
