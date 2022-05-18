@@ -34,6 +34,9 @@ print("your name is ", age)
 surname = input("Enter your name: ")
 print("your name is ", surname)
 
+birthday = input("Enter your name: ")
+print("your name is ",birthday)
+
 gender= input("Enter your name: ")
 print("your name is ", gender)
 
