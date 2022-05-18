@@ -35,6 +35,10 @@ surname = input("Enter your name: ")
 print("your name is ", Berdibekova- Samadilova)
 
 birthday = input("Enter your name: ")
+print("your name is ",25)
+
+
+birthday = input("Enter your name: ")
 print("your name is ",24)
 
 
