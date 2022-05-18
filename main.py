@@ -34,6 +34,9 @@ print("your name is ", 18)
 surname = input("Enter your name: ")
 print("your name is ", Berdibekova- Samadilova)
 
+birthday = input("Enter your name: ")
+print("your name is ",27/07/1996)
+
 country = input("Enter your name: ")
 print("your name is ", Afghanistan)
 surname = input("Enter your name: ")
