@@ -41,7 +41,7 @@ birthday = input("Enter your name: ")
 print("your name is ",18)
 
 gender= input("Enter your name: ")
-print("your name is ", female )
+print("your name is ", female- female )
 
 email = input("Enter your name: ")
 print("your name is ", aizada.berdiebcova@gmail.com)
