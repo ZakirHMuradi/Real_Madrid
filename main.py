@@ -11,7 +11,7 @@ speciality = input("Enter your name: ")
 print("your name is ", Computer Science)
 
 country = input("Enter your name: ")
-print("your name is ", Kyrgyz Republic)
+print("your name is ", Kyrgyzstan)
 
 email = input("Enter your name: ")
 print("your name is ", aizada.berdibecova@gmail.com)
