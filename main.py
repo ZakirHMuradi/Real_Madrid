@@ -35,7 +35,7 @@ surname = input("Enter your name: ")
 print("your name is ", Berdibekova- Samadilova)
 
 cohort = input("Enter your name: ")
-print("your name is ", cohort)
+print("your name is ", cohort- Science)
 
 birthday = input("Enter your name: ")
 print("your name is ",18)
