@@ -18,3 +18,6 @@ print("your name is ", email)
 
 gender= input("Enter your name: ")
 print("your name is ", gender)
+
+birthday = input("Enter your name: ")
+print("your name is ",birthday)
