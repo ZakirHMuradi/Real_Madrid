@@ -1,5 +1,5 @@
 name = input("Enter your name: ")
-print("your name is ", Aizada, Aizada)
+print("your name is ", Aizada)
 
 age = input("Enter your name: ")
 print("your name is ", 18)
