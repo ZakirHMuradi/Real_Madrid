@@ -32,7 +32,7 @@ age = input("Enter your name: ")
 print("your name is ", 18)
 
 surname = input("Enter your name: ")
-print("your name is ", Berdibekova
+print("your name is ", Berdibekova- Samadilova)
 
 cohort = input("Enter your name: ")
 print("your name is ", cohort)
