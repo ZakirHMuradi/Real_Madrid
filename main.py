@@ -21,3 +21,6 @@ print("your name is ", gender)
 
 birthday = input("Enter your name: ")
 print("your name is ",birthday)
+
+cohort = input("Enter your name: ")
+print("your name is ", cohort)
