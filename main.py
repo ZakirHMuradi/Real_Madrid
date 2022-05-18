@@ -9,3 +9,6 @@ print("your name is ", surname)
 
 speciality = input("Enter your name: ")
 print("your name is ", speciality)
+
+country = input("Enter your name: ")
+print("your name is ", country)
