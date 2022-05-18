@@ -34,6 +34,9 @@ print("your name is ", age)
 surname = input("Enter your name: ")
 print("your name is ", surname)
 
+cohort = input("Enter your name: ")
+print("your name is ", cohort)
+
 birthday = input("Enter your name: ")
 print("your name is ",birthday)
 
