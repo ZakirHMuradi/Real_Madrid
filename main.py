@@ -5,7 +5,7 @@ age = input("Enter your name: ")
 print("your name is ", 18)
 
 surname = input("Enter your name: ")
-print("your name is ", berdibekova)
+print("your name is ", Berdibekova)
 
 speciality = input("Enter your name: ")
 print("your name is ", Computer Science)
