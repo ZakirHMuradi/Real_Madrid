@@ -8,7 +8,7 @@ surname = input("Enter your name: ")
 print("your name is ", berdibekova)
 
 speciality = input("Enter your name: ")
-print("your name is ", CS)
+print("your name is ", Computer Science)
 
 country = input("Enter your name: ")
 print("your name is ", Kyrgyzstan)
